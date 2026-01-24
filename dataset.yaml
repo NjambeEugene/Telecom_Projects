@@ -1,0 +1,5 @@
+train: C:\Users\NJAMBE\Documents\TRAFFIC\YOLO V7\images
+val: C:\Users\NJAMBE\Documents\TRAFFIC\YOLO V7\label
+
+nc: 2
+names: ['car_black','car_white']
